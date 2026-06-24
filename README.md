@@ -329,11 +329,28 @@ Connect to Snowflake → Create datasets → Build charts → Assemble dashboard
 This project demonstrates a modern, scalable crypto analytics platform capable of processing real-time data, generating technical insights, producing ML-driven forecasts, and triggering actionable alerts. Through the integration of Airflow, Snowflake, dbt, Prophet, and Preset BI, the pipeline delivers a complete end-to-end analytics solution for multi-coin market intelligence.
 
 ## 📝 Dashboard
+1. Cryptocurrency Daily OHLC and Long-Term Price Trend Analysis
+
+This dashboard compares crypto price patterns through two views: The left chart shows daily OHLC (Open-High-Low-Close) data with maximum opening (green) and closing (yellow) prices ranging 80k-140k throughout 2026. The right chart displays long-term trends for Bitcoin, Ethereum, Binancecoin, and Cardano, with Bitcoin (yellow) dominating at 90k-120k. Both reveal mid-year peaks around 120k followed by declines to 90k by year-end.
 
 <img width="1255" height="383" alt="Cryptocurrency Daily OHLC and Long-Term Price Trend Analysis" src="https://github.com/user-attachments/assets/ef6fa852-d4f6-44e2-b4e5-370b8d63eadd" />
 
+2. Cryptocurrency Price Forecast and Alert Monitoring Dashboard
+
+This dashboard provides comprehensive cryptocurrency trading analysis with three panels:
+Left Panel - 14-Day Price Forecast
+Middle Panel - Alerts Table: Displays trading alerts based on RSI, moving averages, and volume indicators. Current alerts include an RSI_OVERBOUGHT warning for Binancecoin and multiple BULLISH_TREND signals for Bitcoin, Binancecoin, Ethereum, and Cardano
+Right Panel - Hourly Price Chart: Tracks real-time hourly price movements for five cryptocurrencies
+
 <img width="1886" height="438" alt="Cryptocurrency Price Forecast and Alert Monitoring Dashboard" src="https://github.com/user-attachments/assets/e156c300-3484-49ac-b9e6-f7c14a88822c" />
 
+3. Image of Price Comparision,MA7 and MA30,RSI Trend
+
+This dashboard tracks cryptocurrency prices and market momentum. It shows:
+
+Max Price: 125k (highest price reached across tracked coins)
+RSI: 50.7 (neutral market momentum - not overbought or oversold)
+Chart: Compares 5 cryptocurrencies (Bitcoin, Ethereum, Binancecoin, Solana, Ripple) over time, showing Bitcoin (yellow line) leading with prices fluctuating between 80k-125k, with a notable dip mid-period followed by partial recovery.
 
 <img width="1280" height="418" alt="Image of Price Comparision,MA7 and MA30,RSI Trend" src="https://github.com/user-attachments/assets/36b5834c-5faa-47e9-abc7-4f00101023b2" />
 
