@@ -18,8 +18,8 @@ End-to-end pipeline (Airflow • Snowflake • dbt • Prophet • Preset • Do
 - [Assumptions & Limitations](#assumptions--limitations)
 - [Future Enhancements](#future-enhancements)
 - [Conclusion](#conclusion)
-
-
+- [Dashboard](#Dashboard)
+  
 ---
 
  ## 🎯 Project Objective
