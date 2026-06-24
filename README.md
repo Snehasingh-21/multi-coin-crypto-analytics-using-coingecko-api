@@ -327,3 +327,14 @@ Connect to Snowflake → Create datasets → Build charts → Assemble dashboard
 ## 📝 Conclusion
 
 This project demonstrates a modern, scalable crypto analytics platform capable of processing real-time data, generating technical insights, producing ML-driven forecasts, and triggering actionable alerts. Through the integration of Airflow, Snowflake, dbt, Prophet, and Preset BI, the pipeline delivers a complete end-to-end analytics solution for multi-coin market intelligence.
+
+## 📝 Dashboard
+
+<img width="1255" height="383" alt="Cryptocurrency Daily OHLC and Long-Term Price Trend Analysis" src="https://github.com/user-attachments/assets/ef6fa852-d4f6-44e2-b4e5-370b8d63eadd" />
+
+<img width="1886" height="438" alt="Cryptocurrency Price Forecast and Alert Monitoring Dashboard" src="https://github.com/user-attachments/assets/e156c300-3484-49ac-b9e6-f7c14a88822c" />
+
+
+<img width="1280" height="418" alt="Image of Price Comparision,MA7 and MA30,RSI Trend" src="https://github.com/user-attachments/assets/36b5834c-5faa-47e9-abc7-4f00101023b2" />
+
+
